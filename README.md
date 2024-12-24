@@ -26,7 +26,7 @@ The Goal is to develop a multiple linear regression model to predict bike demand
 ## Summary
  Following files has been inlcluded as a part of solutions:
  1. README.md file for Problem discriptions & high level details on the analysis.
- 2. Bike_Sharing_Assignment.ipynb ipython file for performing with the whole Linear model, Predictions, and Evaluation..
+ 2. Saumy_Bike_Sharing.ipynb - ipython file for performing with the whole Linear model, Predictions, and Evaluation..
  3. Regression+Subjective+Questions.pdf with subjective questions & Answer.
 
 
