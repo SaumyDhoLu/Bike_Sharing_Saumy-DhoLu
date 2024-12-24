@@ -13,11 +13,11 @@ The Goal is to develop a multiple linear regression model to predict bike demand
 
 ### Analysis and Model building Steps Performed
 #### Step 0: Invoking Libraries/Packages 
-#### Step 1: Reading and Understanding the Data 
+#### Step 1: Reading, Understanding and Cleaning the Data 
 #### Step 2: Visualising the Data  
 #### Step 3: Data Preparation  
 #### Step 4: Splitting Data into Training and Testing Sets
-#### Step 5: Building Linear Model using statsmodels
+#### Step 5: Feature selection and Building Linear Model using statsmodels
 #### Step 6: Residual Analysis of the train data and validation
 #### Step 7: Predictions on Test Data Using the chosen Final Model
 #### Step 8: Model Evaluation
@@ -43,5 +43,5 @@ The Goal is to develop a multiple linear regression model to predict bike demand
 Developed as part of the Machine Learning - 1 Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
 ## Contact
-Created by [@Saumy DhoLu] - feel free to contact me!
+Created by [@SaumyDhoLu] - feel free to contact me!
 
